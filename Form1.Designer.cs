@@ -83,7 +83,7 @@
             this.Kaydet.TabIndex = 5;
             this.Kaydet.Text = "Kaydet";
             this.Kaydet.UseVisualStyleBackColor = true;
-            this.Kaydet.Click += new System.EventHandler(this.button1_Click);
+            this.Kaydet.Click += new System.EventHandler(this.Kaydet_Click);
             // 
             // Ad
             // 
@@ -93,7 +93,6 @@
             this.Ad.Size = new System.Drawing.Size(24, 16);
             this.Ad.TabIndex = 6;
             this.Ad.Text = "Ad";
-            this.Ad.Click += new System.EventHandler(this.label1_Click);
             // 
             // Yas
             // 

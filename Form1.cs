@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace nesne_tabanli_temelleri
 {
     public partial class Form1 : Form
@@ -22,13 +23,15 @@ namespace nesne_tabanli_temelleri
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Kaydet_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
+            
+            string ad = tbAd.Text;
+            string soyad = tbSoyad.Text;
+            int yas = int.Parse(tbYas.Text);
+            float not = float.Parse(tbNot.Text);
+            
+            Program.kaydet(ad, soyad, yas, not);
 
         }
     }

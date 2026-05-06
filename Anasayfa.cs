@@ -17,7 +17,13 @@ namespace nesne_tabanli_temelleri
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void kayitAc_Click(object sender, EventArgs e)
+        {
+            Form1 KayitFormu = new Form1();
+            KayitFormu.ShowDialog();
+        }
+
+        private void listele_Click(object sender, EventArgs e)
         {
 
         }

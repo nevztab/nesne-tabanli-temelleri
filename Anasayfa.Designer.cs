@@ -40,6 +40,7 @@
             this.listele.TabIndex = 0;
             this.listele.Text = "Öğrencileri listele";
             this.listele.UseVisualStyleBackColor = true;
+            this.listele.Click += new System.EventHandler(this.listele_Click);
             // 
             // kayitAc
             // 
@@ -49,7 +50,7 @@
             this.kayitAc.TabIndex = 1;
             this.kayitAc.Text = "kayıt ekranı";
             this.kayitAc.UseVisualStyleBackColor = true;
-            this.kayitAc.Click += new System.EventHandler(this.button2_Click);
+            this.kayitAc.Click += new System.EventHandler(this.kayitAc_Click);
             // 
             // Anasayfa
             // 
