@@ -33,6 +33,10 @@ namespace nesne_tabanli_temelleri
             
             Program.kaydet(ad, soyad, yas, not);
 
+            MessageBox.Show("Kayıt Başarılı!");
+            Form1 kayitFormu = new Form1();
+            kayitFormu.Close();
+
         }
     }
 }
