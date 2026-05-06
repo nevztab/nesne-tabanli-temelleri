@@ -1,0 +1,11 @@
+D:\Projeler\nesne-tabanli-temelleri\bin\Debug\nesne-tabanli-temelleri.exe.config
+D:\Projeler\nesne-tabanli-temelleri\bin\Debug\nesne-tabanli-temelleri.exe
+D:\Projeler\nesne-tabanli-temelleri\bin\Debug\nesne-tabanli-temelleri.pdb
+D:\Projeler\nesne-tabanli-temelleri\obj\Debug\nesne-tabanli-temelleri.csproj.AssemblyReference.cache
+D:\Projeler\nesne-tabanli-temelleri\obj\Debug\nesne_tabanli_temelleri.Anasayfa.resources
+D:\Projeler\nesne-tabanli-temelleri\obj\Debug\nesne_tabanli_temelleri.Form1.resources
+D:\Projeler\nesne-tabanli-temelleri\obj\Debug\nesne_tabanli_temelleri.Properties.Resources.resources
+D:\Projeler\nesne-tabanli-temelleri\obj\Debug\nesne-tabanli-temelleri.csproj.GenerateResource.cache
+D:\Projeler\nesne-tabanli-temelleri\obj\Debug\nesne-tabanli-temelleri.csproj.CoreCompileInputs.cache
+D:\Projeler\nesne-tabanli-temelleri\obj\Debug\nesne-tabanli-temelleri.exe
+D:\Projeler\nesne-tabanli-temelleri\obj\Debug\nesne-tabanli-temelleri.pdb
